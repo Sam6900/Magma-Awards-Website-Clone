@@ -98,7 +98,6 @@ canvas {
 }
 
 #nav>h3 {
-    font-family: gilroy;
     font-weight: 400;
     font-size: 22px;
 }
@@ -109,4 +108,19 @@ canvas {
     background-color: #000;
     color: #fff;
     border: none;
+}
+
+#page > h3 {
+    font-weight: 400;
+    color: #8d8d8d;
+    position: absolute;
+    top: 55%;
+    left: 5%;
+}
+
+#page > h4 {
+    color: #5e5e5e;
+    position: absolute;
+    top: 62%;
+    left: 25%;
 }
