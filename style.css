@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     box-sizing: border-box;
 }
 
@@ -42,5 +42,5 @@ canvas {
     position: relative;
     z-index: 9;
     max-width: 100vw;
-    max-width: 100vh;
+    max-height: 100vh;
 }
