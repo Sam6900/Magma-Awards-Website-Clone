@@ -48,7 +48,7 @@ window.addEventListener("resize", function () {
 
 function files(index) {
     const paddedNumber = String(index).padStart(4, '0');
-    return `/images/male${paddedNumber}.png`;
+    return `images/male${paddedNumber}.png`;
 }
 
 const frameCount = 300;
