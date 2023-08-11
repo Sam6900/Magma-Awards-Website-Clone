@@ -110,7 +110,7 @@ canvas {
     border: none;
 }
 
-#page > h3 {
+#page>h3 {
     font-weight: 400;
     color: #7c7c7c;
     position: absolute;
@@ -118,60 +118,70 @@ canvas {
     left: 5%;
 }
 
-#page > h4 {
+#page>h4 {
     color: #5e5e5e;
     position: absolute;
     top: 62%;
     left: 25%;
 }
 
-#page1>#right-text{
+#page1>#left-text {
     position: absolute;
     top: 30%;
     left: 10%;
 }
-#page1>#right-text>h3{
+
+#page1>#left-text>h3 {
     font-weight: 400;
     color: #7c7c7c;
 }
-#page1>#right-text>h1{
+
+#page1>#left-text>h1 {
     line-height: 1.5;
     font-size: 50px;
 }
-#page1>#left-text{
+
+#page1>#right-text {
     position: absolute;
     top: 50%;
     right: 10%;
     text-align: end;
 }
-#page1>#left-text>h1{
+
+#page1>#right-text>h1 {
     font-size: 50px;
     line-height: 1.5;
 }
-#page1>#left-text>h3{
+
+#page1>#right-text>h3 {
     color: #7c7c7c;
     font-weight: 400;
 }
-#page2>#text1{
+
+#page2>#text1 {
     position: absolute;
     top: 30%;
     left: 10%;
 }
-#page2>#text1>h3{
+
+#page2>#text1>h3 {
     color: #7c7c7c;
     font-weight: 400;
 }
-#page2>#text1>h1{
+
+#page2>#text1>h1 {
     font-size: 60px;
     line-height: 1.5;
 }
-#page2>#text2{
+
+#page2>#text2 {
     position: absolute;
     top: 55%;
     right: 10%;
     text-align: end;
 }
-#page2>#text2>p{
+
+#page2>#text2>p {
     color: #7c7c7c;
     font-weight: 400;
 }
